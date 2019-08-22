@@ -1,0 +1,9 @@
+.hover:hover {
+   background-color: #EDEDED;
+   transition: background-color .4s ease-in-out;
+   cursor: pointer;
+ }
+
+.edit_rating {
+  display: none;
+}
